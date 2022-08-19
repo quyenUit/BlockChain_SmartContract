@@ -1,0 +1,1 @@
+D:\Smart\ Contract\core-contracts\staking-pool\target\debug\libstaking_pool.rlib: D:\Smart\ Contract\core-contracts\staking-pool\src\internal.rs D:\Smart\ Contract\core-contracts\staking-pool\src\lib.rs

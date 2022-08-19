@@ -1,0 +1,11 @@
+d:\Smart Contract\core-contracts\staking-pool\target\debug\deps\ppv_lite86-4a964f5a07c85830.rmeta: C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\lib.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\soft.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\types.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\mod.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\sse2.rs
+
+d:\Smart Contract\core-contracts\staking-pool\target\debug\deps\libppv_lite86-4a964f5a07c85830.rlib: C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\lib.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\soft.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\types.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\mod.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\sse2.rs
+
+d:\Smart Contract\core-contracts\staking-pool\target\debug\deps\ppv_lite86-4a964f5a07c85830.d: C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\lib.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\soft.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\types.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\mod.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\sse2.rs
+
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\lib.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\soft.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\types.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\mod.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.9\src\x86_64\sse2.rs:

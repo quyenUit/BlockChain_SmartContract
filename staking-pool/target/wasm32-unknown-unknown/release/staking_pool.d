@@ -1,0 +1,1 @@
+D:\Smart\ Contract\core-contracts\staking-pool\target\wasm32-unknown-unknown\release\staking_pool.wasm: D:\Smart\ Contract\core-contracts\staking-pool\src\internal.rs D:\Smart\ Contract\core-contracts\staking-pool\src\lib.rs

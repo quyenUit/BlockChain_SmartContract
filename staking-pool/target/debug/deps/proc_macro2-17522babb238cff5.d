@@ -1,0 +1,11 @@
+d:\Smart Contract\core-contracts\staking-pool\target\debug\deps\proc_macro2-17522babb238cff5.rmeta: C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+d:\Smart Contract\core-contracts\staking-pool\target\debug\deps\libproc_macro2-17522babb238cff5.rlib: C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+d:\Smart Contract\core-contracts\staking-pool\target\debug\deps\proc_macro2-17522babb238cff5.d: C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs
+
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\lib.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\parse.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\detection.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\fallback.rs:
+C:\Users\TIMLONGBAND\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.19\src\wrapper.rs:
